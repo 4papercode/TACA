@@ -1,0 +1,17 @@
+public:
+  H1N1:
+    r: 32
+    tau: 0.5
+    sup_weight: 0.2
+    wd1: 1e-4
+    wd2: 1e-4
+    wd3: 1e-4
+    wd4: 1e-4
+    wd5: 1e-4
+    l1: 2
+    l2: 0.5
+    l3: 0.5
+    l4: 0.1
+    l5: 0.1
+    l6: 1000
+    num_epochs: 200
