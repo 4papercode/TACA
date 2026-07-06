@@ -29,13 +29,10 @@ torch-spline-conv==1.2.2+pt21cu121
 pyg-lib==0.4.0+pt21cu121
 
 numpy==1.26.4
-scipy==1.17.1
-scikit-learn==1.9.0
 networkx==3.6.1
 PyYAML==6.0.3
 gudhi==3.13.0
 torch-topological==0.1.9
-matplotlib==3.11.0
 ```
 
 ## How to Run
